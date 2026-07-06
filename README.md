@@ -1,4 +1,4 @@
-# Dynamic-array-implementation-in-C
+# Dynamic array implementation in C
 
 This is my first ever C beginner programming project as i thought it was great to learn and applicable for future use, let me break down the time complexities:
 
